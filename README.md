@@ -17,6 +17,8 @@ A collection of podcasts
 ## General
 
 * [Anatomy of Next](https://foundersfund.com/anatomy-of-next/qa/)
+* [Pursuit Podcast](http://pursuit.tech) #start-here
+* [baseCS](https://www.codenewbie.org/basecs) #start-here
 
 ## People in Tech
 
